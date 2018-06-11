@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Code>5001</Code>
+    <School Name>ADAM ROAD PRIMARY SCHOOL</School Name>
+    <Street>HOTCHIN STREET</Street>
+    <Suburb>SOUTH BUNBURY</Suburb>
+    <State>WA</State>
+    <Postcode>6230</Postcode>
+    <Postal Street>HOTCHIN STREET</Postal Street>
+    <Postal Suburb>SOUTH BUNBURY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6230</Postal Postcode>
+    <Latitude>-33.357951</Latitude>
+    <Longitude>115.635371</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9796 3000</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Primary Schools</Broad Classification>
+    <Classification Group>PRIMARY SCHOOLS</Classification Group>
+    <Total Students>498</Total Students>
+  </row>
+  <row>
+    <Code>8001</Code>
+    <School Name>ALBANY COMMUNITY KINDERGARTEN</School Name>
+    <Street>136 SERPENTINE ROAD</Street>
+    <Suburb>ALBANY</Suburb>
+    <State>WA</State>
+    <Postcode>6330</Postcode>
+    <Postal Street>PO BOX 5670</Postal Street>
+    <Postal Suburb>ALBANY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6332</Postal Postcode>
+    <Latitude>-35.02145966</Latitude>
+    <Longitude>117.8809869</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9841 1864</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Community Kindergartens</Broad Classification>
+    <Classification Group>COMMUNITY KINDERGARTENS</Classification Group>
+    <Total Students>34</Total Students>
+  </row>
+  <row>
+    <Code>5002</Code>
+    <School Name>ALBANY PRIMARY SCHOOL</School Name>
+    <Street>SUFFOLK STREET</Street>
+    <Suburb>ALBANY</Suburb>
+    <State>WA</State>
+    <Postcode>6330</Postcode>
+    <Postal Street>SUFFOLK STREET</Postal Street>
+    <Postal Suburb>ALBANY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6330</Postal Postcode>
+    <Latitude>-35.01821151</Latitude>
+    <Longitude>117.8916106</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9842 7400</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Primary Schools</Broad Classification>
+    <Classification Group>PRIMARY SCHOOLS</Classification Group>
+    <Total Students>491</Total Students>
+  </row>
+</root>
