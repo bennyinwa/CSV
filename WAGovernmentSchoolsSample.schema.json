@@ -1,0 +1,471 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "Code": {
+          "type": "integer"
+        },
+        "School Name": {
+          "type": "string"
+        },
+        "Street": {
+          "type": "string"
+        },
+        "Suburb": {
+          "type": "string"
+        },
+        "State": {
+          "type": "string"
+        },
+        "Postcode": {
+          "type": "integer"
+        },
+        "Postal Street": {
+          "type": "string"
+        },
+        "Postal Suburb": {
+          "type": "string"
+        },
+        "Postal State": {
+          "type": "string"
+        },
+        "Postal Postcode": {
+          "type": "integer"
+        },
+        "Latitude": {
+          "type": "number"
+        },
+        "Longitude": {
+          "type": "number"
+        },
+        "Courier Code": {
+          "type": "string"
+        },
+        "Phone": {
+          "type": "string"
+        },
+        "Education Region": {
+          "type": "string"
+        },
+        "Broad Classification": {
+          "type": "string"
+        },
+        "Classification Group": {
+          "type": "string"
+        },
+        "FIELD18": {
+          "type": "string"
+        },
+        "Low Year": {
+          "type": "string"
+        },
+        "High Year": {
+          "type": "string"
+        },
+        "KIN": {
+          "type": "integer"
+        },
+        "PPR": {
+          "type": "integer"
+        },
+        "Y01": {
+          "type": "integer"
+        },
+        "Y02": {
+          "type": "integer"
+        },
+        "Y03": {
+          "type": "integer"
+        },
+        "Y04": {
+          "type": "integer"
+        },
+        "Y05": {
+          "type": "integer"
+        },
+        "Y06": {
+          "type": "integer"
+        },
+        "UPR": {
+          "type": "string"
+        },
+        "Y07": {
+          "type": "null"
+        },
+        "Y08": {
+          "type": "null"
+        },
+        "Y09": {
+          "type": "null"
+        },
+        "Y10": {
+          "type": "null"
+        },
+        "Y11": {
+          "type": "null"
+        },
+        "Y12": {
+          "type": "null"
+        },
+        "USE": {
+          "type": "null"
+        },
+        "Total Students": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Code",
+        "School Name",
+        "Street",
+        "Suburb",
+        "State",
+        "Postcode",
+        "Postal Street",
+        "Postal Suburb",
+        "Postal State",
+        "Postal Postcode",
+        "Latitude",
+        "Longitude",
+        "Courier Code",
+        "Phone",
+        "Education Region",
+        "Broad Classification",
+        "Classification Group",
+        "FIELD18",
+        "Low Year",
+        "High Year",
+        "KIN",
+        "PPR",
+        "Y01",
+        "Y02",
+        "Y03",
+        "Y04",
+        "Y05",
+        "Y06",
+        "UPR",
+        "Y07",
+        "Y08",
+        "Y09",
+        "Y10",
+        "Y11",
+        "Y12",
+        "USE",
+        "Total Students"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Code": {
+          "type": "integer"
+        },
+        "School Name": {
+          "type": "string"
+        },
+        "Street": {
+          "type": "string"
+        },
+        "Suburb": {
+          "type": "string"
+        },
+        "State": {
+          "type": "string"
+        },
+        "Postcode": {
+          "type": "integer"
+        },
+        "Postal Street": {
+          "type": "string"
+        },
+        "Postal Suburb": {
+          "type": "string"
+        },
+        "Postal State": {
+          "type": "string"
+        },
+        "Postal Postcode": {
+          "type": "integer"
+        },
+        "Latitude": {
+          "type": "number"
+        },
+        "Longitude": {
+          "type": "number"
+        },
+        "Courier Code": {
+          "type": "string"
+        },
+        "Phone": {
+          "type": "string"
+        },
+        "Education Region": {
+          "type": "string"
+        },
+        "Broad Classification": {
+          "type": "string"
+        },
+        "Classification Group": {
+          "type": "string"
+        },
+        "FIELD18": {
+          "type": "string"
+        },
+        "Low Year": {
+          "type": "string"
+        },
+        "High Year": {
+          "type": "string"
+        },
+        "KIN": {
+          "type": "integer"
+        },
+        "PPR": {
+          "type": "null"
+        },
+        "Y01": {
+          "type": "null"
+        },
+        "Y02": {
+          "type": "null"
+        },
+        "Y03": {
+          "type": "null"
+        },
+        "Y04": {
+          "type": "null"
+        },
+        "Y05": {
+          "type": "null"
+        },
+        "Y06": {
+          "type": "null"
+        },
+        "UPR": {
+          "type": "string"
+        },
+        "Y07": {
+          "type": "null"
+        },
+        "Y08": {
+          "type": "null"
+        },
+        "Y09": {
+          "type": "null"
+        },
+        "Y10": {
+          "type": "null"
+        },
+        "Y11": {
+          "type": "null"
+        },
+        "Y12": {
+          "type": "null"
+        },
+        "USE": {
+          "type": "null"
+        },
+        "Total Students": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Code",
+        "School Name",
+        "Street",
+        "Suburb",
+        "State",
+        "Postcode",
+        "Postal Street",
+        "Postal Suburb",
+        "Postal State",
+        "Postal Postcode",
+        "Latitude",
+        "Longitude",
+        "Courier Code",
+        "Phone",
+        "Education Region",
+        "Broad Classification",
+        "Classification Group",
+        "FIELD18",
+        "Low Year",
+        "High Year",
+        "KIN",
+        "PPR",
+        "Y01",
+        "Y02",
+        "Y03",
+        "Y04",
+        "Y05",
+        "Y06",
+        "UPR",
+        "Y07",
+        "Y08",
+        "Y09",
+        "Y10",
+        "Y11",
+        "Y12",
+        "USE",
+        "Total Students"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "Code": {
+          "type": "integer"
+        },
+        "School Name": {
+          "type": "string"
+        },
+        "Street": {
+          "type": "string"
+        },
+        "Suburb": {
+          "type": "string"
+        },
+        "State": {
+          "type": "string"
+        },
+        "Postcode": {
+          "type": "integer"
+        },
+        "Postal Street": {
+          "type": "string"
+        },
+        "Postal Suburb": {
+          "type": "string"
+        },
+        "Postal State": {
+          "type": "string"
+        },
+        "Postal Postcode": {
+          "type": "integer"
+        },
+        "Latitude": {
+          "type": "number"
+        },
+        "Longitude": {
+          "type": "number"
+        },
+        "Courier Code": {
+          "type": "string"
+        },
+        "Phone": {
+          "type": "string"
+        },
+        "Education Region": {
+          "type": "string"
+        },
+        "Broad Classification": {
+          "type": "string"
+        },
+        "Classification Group": {
+          "type": "string"
+        },
+        "FIELD18": {
+          "type": "string"
+        },
+        "Low Year": {
+          "type": "string"
+        },
+        "High Year": {
+          "type": "string"
+        },
+        "KIN": {
+          "type": "integer"
+        },
+        "PPR": {
+          "type": "integer"
+        },
+        "Y01": {
+          "type": "integer"
+        },
+        "Y02": {
+          "type": "integer"
+        },
+        "Y03": {
+          "type": "integer"
+        },
+        "Y04": {
+          "type": "integer"
+        },
+        "Y05": {
+          "type": "integer"
+        },
+        "Y06": {
+          "type": "integer"
+        },
+        "UPR": {
+          "type": "string"
+        },
+        "Y07": {
+          "type": "null"
+        },
+        "Y08": {
+          "type": "null"
+        },
+        "Y09": {
+          "type": "null"
+        },
+        "Y10": {
+          "type": "null"
+        },
+        "Y11": {
+          "type": "null"
+        },
+        "Y12": {
+          "type": "null"
+        },
+        "USE": {
+          "type": "null"
+        },
+        "Total Students": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Code",
+        "School Name",
+        "Street",
+        "Suburb",
+        "State",
+        "Postcode",
+        "Postal Street",
+        "Postal Suburb",
+        "Postal State",
+        "Postal Postcode",
+        "Latitude",
+        "Longitude",
+        "Courier Code",
+        "Phone",
+        "Education Region",
+        "Broad Classification",
+        "Classification Group",
+        "FIELD18",
+        "Low Year",
+        "High Year",
+        "KIN",
+        "PPR",
+        "Y01",
+        "Y02",
+        "Y03",
+        "Y04",
+        "Y05",
+        "Y06",
+        "UPR",
+        "Y07",
+        "Y08",
+        "Y09",
+        "Y10",
+        "Y11",
+        "Y12",
+        "USE",
+        "Total Students"
+      ]
+    }
+  ]
+}
