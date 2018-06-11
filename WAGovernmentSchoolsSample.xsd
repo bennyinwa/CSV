@@ -1,0 +1,32 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="row" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:short" name="Code"/>
+              <xs:element type="xs:string" name="SchoolName"/>
+              <xs:element type="xs:string" name="Street"/>
+              <xs:element type="xs:string" name="Suburb"/>
+              <xs:element type="xs:string" name="State"/>
+              <xs:element type="xs:short" name="Postcode"/>
+              <xs:element type="xs:string" name="PostalStreet"/>
+              <xs:element type="xs:string" name="PostalSuburb"/>
+              <xs:element type="xs:string" name="PostalState"/>
+              <xs:element type="xs:short" name="PostalPostcode"/>
+              <xs:element type="xs:float" name="Latitude"/>
+              <xs:element type="xs:float" name="Longitude"/>
+              <xs:element type="xs:string" name="CourierCode"/>
+              <xs:element type="xs:string" name="Phone"/>
+              <xs:element type="xs:string" name="EducationRegion"/>
+              <xs:element type="xs:string" name="BroadClassification"/>
+              <xs:element type="xs:string" name="ClassificationGroup"/>
+              <xs:element type="xs:short" name="TotalStudents"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
