@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Code>5001</Code>
+    <School Name>ADAM ROAD PRIMARY SCHOOL</School Name>
+    <Street>HOTCHIN STREET</Street>
+    <Suburb>SOUTH BUNBURY</Suburb>
+    <State>WA</State>
+    <Postcode>6230</Postcode>
+    <Postal Street>HOTCHIN STREET</Postal Street>
+    <Postal Suburb>SOUTH BUNBURY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6230</Postal Postcode>
+    <Latitude>-33.357951</Latitude>
+    <Longitude>115.635371</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9796 3000</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Primary Schools</Broad Classification>
+    <Classification Group>PRIMARY SCHOOLS</Classification Group>
+    <FIELD18></FIELD18>
+    <Low Year>KIN</Low Year>
+    <High Year>Y06</High Year>
+    <KIN>75</KIN>
+    <PPR>42</PPR>
+    <Y01>56</Y01>
+    <Y02>62</Y02>
+    <Y03>50</Y03>
+    <Y04>76</Y04>
+    <Y05>65</Y05>
+    <Y06>72</Y06>
+    <UPR></UPR>
+    <Y07></Y07>
+    <Y08></Y08>
+    <Y09></Y09>
+    <Y10></Y10>
+    <Y11></Y11>
+    <Y12></Y12>
+    <USE></USE>
+    <Total Students>498</Total Students>
+  </row>
+  <row>
+    <Code>8001</Code>
+    <School Name>ALBANY COMMUNITY KINDERGARTEN</School Name>
+    <Street>136 SERPENTINE ROAD</Street>
+    <Suburb>ALBANY</Suburb>
+    <State>WA</State>
+    <Postcode>6330</Postcode>
+    <Postal Street>PO BOX 5670</Postal Street>
+    <Postal Suburb>ALBANY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6332</Postal Postcode>
+    <Latitude>-35.02145966</Latitude>
+    <Longitude>117.8809869</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9841 1864</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Community Kindergartens</Broad Classification>
+    <Classification Group>COMMUNITY KINDERGARTENS</Classification Group>
+    <FIELD18></FIELD18>
+    <Low Year>KIN</Low Year>
+    <High Year>KIN</High Year>
+    <KIN>34</KIN>
+    <PPR></PPR>
+    <Y01></Y01>
+    <Y02></Y02>
+    <Y03></Y03>
+    <Y04></Y04>
+    <Y05></Y05>
+    <Y06></Y06>
+    <UPR></UPR>
+    <Y07></Y07>
+    <Y08></Y08>
+    <Y09></Y09>
+    <Y10></Y10>
+    <Y11></Y11>
+    <Y12></Y12>
+    <USE></USE>
+    <Total Students>34</Total Students>
+  </row>
+  <row>
+    <Code>5002</Code>
+    <School Name>ALBANY PRIMARY SCHOOL</School Name>
+    <Street>SUFFOLK STREET</Street>
+    <Suburb>ALBANY</Suburb>
+    <State>WA</State>
+    <Postcode>6330</Postcode>
+    <Postal Street>SUFFOLK STREET</Postal Street>
+    <Postal Suburb>ALBANY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6330</Postal Postcode>
+    <Latitude>-35.01821151</Latitude>
+    <Longitude>117.8916106</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9842 7400</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Primary Schools</Broad Classification>
+    <Classification Group>PRIMARY SCHOOLS</Classification Group>
+    <FIELD18></FIELD18>
+    <Low Year>KIN</Low Year>
+    <High Year>Y06</High Year>
+    <KIN>38</KIN>
+    <PPR>60</PPR>
+    <Y01>59</Y01>
+    <Y02>57</Y02>
+    <Y03>62</Y03>
+    <Y04>58</Y04>
+    <Y05>64</Y05>
+    <Y06>93</Y06>
+    <UPR></UPR>
+    <Y07></Y07>
+    <Y08></Y08>
+    <Y09></Y09>
+    <Y10></Y10>
+    <Y11></Y11>
+    <Y12></Y12>
+    <USE></USE>
+    <Total Students>491</Total Students>
+  </row>
+  <row>
+    <Code>6151</Code>
+    <School Name>ALBANY SECONDARY EDUCATION SUPPORT CENTRE</School Name>
+    <Street>65 ANSON ROAD</Street>
+    <Suburb>ALBANY</Suburb>
+    <State>WA</State>
+    <Postcode>6330</Postcode>
+    <Postal Street>65 ANSON ROAD</Postal Street>
+    <Postal Suburb>ALBANY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6330</Postal Postcode>
+    <Latitude>-34.99074882</Latitude>
+    <Longitude>117.8668674</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9841 4900</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Education Support Centres</Broad Classification>
+    <Classification Group>EDUCATION SUPPORT</Classification Group>
+    <FIELD18></FIELD18>
+    <Low Year>Y07</Low Year>
+    <High Year>Y12</High Year>
+    <KIN></KIN>
+    <PPR></PPR>
+    <Y01></Y01>
+    <Y02></Y02>
+    <Y03></Y03>
+    <Y04></Y04>
+    <Y05></Y05>
+    <Y06></Y06>
+    <UPR></UPR>
+    <Y07>7</Y07>
+    <Y08>9</Y08>
+    <Y09>11</Y09>
+    <Y10>8</Y10>
+    <Y11>7</Y11>
+    <Y12>6</Y12>
+    <USE></USE>
+    <Total Students>48</Total Students>
+  </row>
+  <row>
+    <Code>4001</Code>
+    <School Name>ALBANY SENIOR HIGH SCHOOL</School Name>
+    <Street>1 CAMPBELL ROAD</Street>
+    <Suburb>ALBANY</Suburb>
+    <State>WA</State>
+    <Postcode>6330</Postcode>
+    <Postal Street>1 CAMPBELL ROAD</Postal Street>
+    <Postal Suburb>ALBANY</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6330</Postal Postcode>
+    <Latitude>-35.02044765</Latitude>
+    <Longitude>117.8917733</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9841 0444</Phone>
+    <Education Region>SOUTH WEST</Education Region>
+    <Broad Classification>Senior High Schools</Broad Classification>
+    <Classification Group>SECONDARY SCHOOLS</Classification Group>
+    <FIELD18></FIELD18>
+    <Low Year>Y07</Low Year>
+    <High Year>Y12</High Year>
+    <KIN></KIN>
+    <PPR></PPR>
+    <Y01></Y01>
+    <Y02></Y02>
+    <Y03></Y03>
+    <Y04></Y04>
+    <Y05></Y05>
+    <Y06></Y06>
+    <UPR></UPR>
+    <Y07>173</Y07>
+    <Y08>172</Y08>
+    <Y09>175</Y09>
+    <Y10>154</Y10>
+    <Y11>180</Y11>
+    <Y12>167</Y12>
+    <USE></USE>
+    <Total Students>1021</Total Students>
+  </row>
+  <row>
+    <Code>5693</Code>
+    <School Name>ALINJARRA PRIMARY SCHOOL</School Name>
+    <Street>33 NORTHUMBERLAND AVENUE</Street>
+    <Suburb>ALEXANDER HEIGHTS</Suburb>
+    <State>WA</State>
+    <Postcode>6064</Postcode>
+    <Postal Street>33 NORTHUMBERLAND AVENUE</Postal Street>
+    <Postal Suburb>ALEXANDER HEIGHTS</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6064</Postal Postcode>
+    <Latitude>-31.82962571</Latitude>
+    <Longitude>115.8701402</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9342 3388</Phone>
+    <Education Region>NORTH METROPOLITAN</Education Region>
+    <Broad Classification>Primary Schools</Broad Classification>
+    <Classification Group>PRIMARY SCHOOLS</Classification Group>
+    <FIELD18></FIELD18>
+    <Low Year>KIN</Low Year>
+    <High Year>Y06</High Year>
+    <KIN>50</KIN>
+    <PPR>34</PPR>
+    <Y01>47</Y01>
+    <Y02>54</Y02>
+    <Y03>56</Y03>
+    <Y04>45</Y04>
+    <Y05>56</Y05>
+    <Y06>47</Y06>
+    <UPR></UPR>
+    <Y07></Y07>
+    <Y08></Y08>
+    <Y09></Y09>
+    <Y10></Y10>
+    <Y11></Y11>
+    <Y12></Y12>
+    <USE></USE>
+    <Total Students>389</Total Students>
+  </row>
+  <row>
+    <Code>5848</Code>
+    <School Name>ALKIMOS BEACH PRIMARY SCHOOL</School Name>
+    <Street>200 LEATHERBACK BOULEVARD</Street>
+    <Suburb>ALKIMOS</Suburb>
+    <State>WA</State>
+    <Postcode>6038</Postcode>
+    <Postal Street>200 LEATHERBACK BOULEVARD</Postal Street>
+    <Postal Suburb>ALKIMOS</Postal Suburb>
+    <Postal State>WA</Postal State>
+    <Postal Postcode>6038</Postal Postcode>
+    <Latitude>-31.626524</Latitude>
+    <Longitude>115.680669</Longitude>
+    <Courier Code>POST</Courier Code>
+    <Phone>08 9561 7200</Phone>
+    <Education Region>NORTH METROPOLITAN</Education Region>
+    <Broad Classification>Primary Schools</Broad Classification>
+    <Classification Group>PRIMARY SCHOOLS</Classification Group>
+    <FIELD18></FIELD18>
+    <Low Year>KIN</Low Year>
+    <High Year>Y06</High Year>
+    <KIN>83</KIN>
+    <PPR>69</PPR>
+    <Y01>64</Y01>
+    <Y02>51</Y02>
+    <Y03>40</Y03>
+    <Y04>37</Y04>
+    <Y05>32</Y05>
+    <Y06>31</Y06>
+    <UPR></UPR>
+    <Y07></Y07>
+    <Y08></Y08>
+    <Y09></Y09>
+    <Y10></Y10>
+    <Y11></Y11>
+    <Y12></Y12>
+    <USE></USE>
+    <Total Students>407</Total Students>
+  </row>
+</root>
